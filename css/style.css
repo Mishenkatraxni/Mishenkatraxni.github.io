@@ -1,3 +1,18 @@
-p {
-    background-color: red;
+p{
+background-color: blue;
+
+
 }
+
+
+
+@media (max-width: 600px){
+p{
+background-color: red;
+
+
+
+} 
+}
+
+
