@@ -1,6 +1,5 @@
 p{
-
-
+font-size: 40px;
 
 }
 
@@ -8,8 +7,8 @@ p{
 
 @media (max-width: 600px){
 p{
-color:green
-
+color:green;
+font-size: 22px;
 
 } 
 }
