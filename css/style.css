@@ -1,5 +1,5 @@
 p{
-background-color: blue;
+
 
 
 }
@@ -8,8 +8,7 @@ background-color: blue;
 
 @media (max-width: 600px){
 p{
-background-color: red;
-
+color:green
 
 
 } 
