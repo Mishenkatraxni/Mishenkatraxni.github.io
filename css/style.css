@@ -1,16 +1,8 @@
-p{
-font-size: 72px;
-margin: 0%;
-}
-
-
-
-@media (max-width: 600px){
-p{
-color:green;
-font-size: 22px;
-margin: 0%;
-} 
+.box{
+border: solid 6px #8b008b;  
+display: inline-block;
+position: fixed 20%;
+margin-top: 0%;
 }
 
 
