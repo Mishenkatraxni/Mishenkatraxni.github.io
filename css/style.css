@@ -1,50 +1,24 @@
 body{
-background-color:#232552; 
-color:white;}
-h1{
-display: inline-block;
-margin-left: 200px;
-margin-top: 170px;
+background-color: #252525;
+color: white;
+text-transform: uppercase;
 }
-
-.text-1{
-display: inline-block;  
-width: 500px ;
-margin-left: 200px;
-}
-.text-1{
-margin-top: -10px;
-}
-.knopochka-1{
-background-color: #00bfff;
-display: inline-block;
-width:100px
-}
-.one{
+#header{
+font-size: 10ch;
+font-family: Courier, monospace;
+text-align: center;
 margin-top: 300px;
-margin-left: 230px;
 }
-.text-2{
-width: 350px;
-margin-left: 200px;
+#header-1{
+font-size: 10ch;    
+font-family: arial;
+text-align: center;
+margin-top: -110px;
 }
-.two{
-margin-left: 700px;    
-margin-top: -158px;
+#suka{
+font-size: 4ch;    
+font-family: arial;
+margin-top: -520px;
+margin-left: 10px;
 }
-.text-3{
-width: 350px;
-margin-left: 680px;
-}
-.three{
-margin-left: 1300px;    
-margin-top: -170px;
-
-}
-.text-4{
-width: 350px;    
-margin-left: 1250px;
-margin-top: -15px;
-}
-
 
