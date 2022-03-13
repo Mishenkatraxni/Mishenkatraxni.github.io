@@ -12,15 +12,26 @@ body {
     margin-top: 18%;
 }
 .two-line {
-    font-weight: 900;
+    font-weight: 700;
     font-size: 400%;
     text-align: center;
     margin-top: -6%;
+    line-height: 0.90;
 }
 .header, .title {
     text-transform: uppercase;
 }
-.header{
+.header {
     font-size: 200%;
     margin-top: -1%;
+    font-weight: 500;
+}
+@media (max-width: 760px) {
+    .two-line{
+        margin-top: -18%;
+        line-height: 0.9;
+    }
+    .one-line{
+        line-height: 0.9;
+    }
 }
