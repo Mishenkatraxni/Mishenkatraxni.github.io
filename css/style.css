@@ -10,13 +10,13 @@ body {
     font-weight: 100;
     font-size: 400%;
     text-align: center;
-    margin-top: 18%;
+    margin-top: 10%;
 }
 .two-line {
     font-weight: 700;
     font-size: 400%;
     text-align: center;
-    margin-top: -6%;
+    margin-top: -3%;
     line-height: 0.90;
 }
 .header, .title {
@@ -26,10 +26,11 @@ body {
     font-size: 200%;
     margin-top: -1%;
     font-weight: 500;
+    padding: 2%;
 }
 @media (max-width: 760px) {
     .two-line{
-        margin-top: -18%;
+        margin-top: -7%;
         line-height: 0.9;
     }
     .one-line{
