@@ -3,14 +3,24 @@
 }
 body {
     background-color: #252525;
-    color:white;
+    color: white;
 }
 .one-line {
-    font-weight: 200;
+    font-weight: 100;
+    font-size: 400%;
+    text-align: center;
+    margin-top: 18%;
 }
 .two-line {
     font-weight: 900;
+    font-size: 400%;
+    text-align: center;
+    margin-top: -6%;
 }
 .header, .title {
     text-transform: uppercase;
+}
+.header{
+    font-size: 200%;
+    margin-top: -1%;
 }
