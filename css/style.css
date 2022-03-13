@@ -1,9 +1,16 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
 body {
-    text-transform: uppercase;
     background-color: #252525;
     color:white;
 }
-h1 {
-    font-size: 250%;
-    font-family: arial;
+.one-line {
+    font-weight: 200;
+}
+.two-line {
+    font-weight: 900;
+}
+.header, .title {
+    text-transform: uppercase;
 }
