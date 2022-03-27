@@ -1,19 +1,39 @@
 *{
     font-family: 'Nunito', sans-serif;
+
 }
-.text-header{
-    color: 	#012970;
+.textheaderone{
     font-size: 30px;
-    font-weight: 700;
+    display: inline;
+    color: #012970;
+    margin-top: 1%;
 }
-.header{
-    display: inline-block;
+.imgone{
+    display: inline;
 }
-.img-1{
-    margin-bottom: 9%;
-    display: inline-block;
-}
-button{
+.buttonone{
     text-decoration: none;
-    color:#012970;
+    font-size: 20px;
+    color: #012970;
+}
+.buttontwo{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+.imgtwo{
+    margin-top: 4%;
+}
+.compilationtext{
+    display: inline;
+}
+.textone{
+    display: inline-block;
+    font-size: 50px;
+    color: #012970;
+    margin-top: -100%;
+}
+.imgtwo{
+    display: inline;
 }
