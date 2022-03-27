@@ -1,6 +1,6 @@
-*{
+body{
     font-family: 'Nunito', sans-serif;
-
+    
 }
 .textheaderone{
     font-size: 30px;
@@ -22,18 +22,4 @@
     background-color: blueviolet;
     color: white;
 }
-.imgtwo{
-    margin-top: 4%;
-}
-.compilationtext{
-    display: inline;
-}
-.textone{
-    display: inline-block;
-    font-size: 50px;
-    color: #012970;
-    margin-top: -100%;
-}
-.imgtwo{
-    display: inline;
-}
+
