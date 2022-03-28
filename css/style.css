@@ -27,10 +27,9 @@ body{
     margin-top: 10%;
     color:#012970;
 }
-.imgbody{
-    margin-bottom: 10%;
-    display:inline ;
-}
 .bodytext{
     display: inline;
+}
+.imgtwo{
+    margin-bottom: 10%;
 }
