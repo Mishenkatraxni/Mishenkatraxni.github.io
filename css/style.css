@@ -1,35 +1,49 @@
 body{
     font-family: 'Nunito', sans-serif;
-
 }
-.textheaderone{
+.text-header{
+    display: inline;
     font-size: 30px;
-    display: inline;
     color: #012970;
-    margin-top: 1%;
+    font-weight: 700;
 }
-.imgone{
-
+.img-header{
+    margin-left: 9%;
 }
-.buttonone{
+.header-button{
+    text-decoration: none;
+    color: #012970;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 10%;
+}
+.header-button-1{
+    color: #012970;
     text-decoration: none;
     font-size: 20px;
-    color: #012970;
+    font-weight: 700;
+    margin-left: 3%;
 }
-.buttontwo{
-    text-decoration: none;
-    font-size: 20px;
+.header-button-2{
+    padding: 0.5%;
     background-color: blueviolet;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
     color: white;
+    margin-left: 2%;
 }
-.textone{
+.title{
+    display: inline-block;
+    margin-bottom: 10%
+    margin-left: 50px;
     font-size: 60px;
-    margin-top: 10%;
-    color:#012970;
 }
-.bodytext{
-    display: inline;
+.img-body{
+    margin-left: 18%;
+    width: 40%;
+    margin-top: 2%;
 }
-.imgtwo{
-    margin-bottom: 10%;
+br{
+    display: inline-block;
 }
