@@ -1,7 +1,7 @@
 body{
     font-family: 'Nunito', sans-serif;
 }
-.text-header{
+.text-logo{
     display: inline;
     font-size: 30px;
     color: #012970;
@@ -10,21 +10,23 @@ body{
 .img-header{
     margin-left: 9%;
 }
-.header-button{
+.header-link{
+    display: inline;
     text-decoration: none;
     color: #012970;
     font-size: 20px;
     font-weight: 700;
     margin-left: 10%;
 }
-.header-button-1{
+.header-link-1{
+    display:inline;
     color: #012970;
     text-decoration: none;
     font-size: 20px;
     font-weight: 700;
     margin-left: 3%;
 }
-.header-button-2{
+.header-button{
     padding: 0.5%;
     background-color: blueviolet;
     text-decoration: none;
@@ -37,12 +39,12 @@ body{
     display: inline-block;
     margin-bottom: 20%;
     margin-left: 50px;
-    font-size: 60px;
+    font-size: 30px;
 }
-.img-body{
-    margin-left: 18%;
-    width: 40%;
-    margin-top: 2%;
+.img{
+display: inline;
+    margin-left: 50%;
+    margin-bottom: 50%;
 }
 br{
     display: inline-block;
