@@ -7,9 +7,7 @@ body{
     color: #012970;
     font-weight: 700;
 }
-.img-header{
-    margin-left: 9%;
-}
+
     
 .header-link-1{
     color: #012970;
@@ -28,15 +26,9 @@ body{
     margin-left: 2%;
 }
 .title{
-    margin-bottom: 20%;
     margin-left: 3%;
     font-size: 35px;
     width:  40%;
     height: 40%;
 }
-.content-img{
-    margin-left: 50%;
-    margin-top: -80%;
-    margin-bottom: 9%;
-    width: 40%;
-}
+
