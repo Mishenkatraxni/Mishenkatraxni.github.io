@@ -1,5 +1,6 @@
 body{
     font-family: 'Nunito', sans-serif;
+    padding: 0% 10%
 }
 .text-logo{
     display: inline;
@@ -7,8 +8,6 @@ body{
     color: #012970;
     font-weight: 700;
 }
-
-    
 .header-link-1{
     color: #012970;
     text-decoration: none;
@@ -31,4 +30,6 @@ body{
     width:  40%;
     height: 40%;
 }
-
+.img,.content-img{
+    display: inline;
+}
