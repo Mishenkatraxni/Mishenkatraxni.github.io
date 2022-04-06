@@ -1,6 +1,7 @@
 body{
     font-family: 'Nunito', sans-serif;
 }
+
 .text-logo{
     display: inline;
     font-size: 30px;
@@ -40,12 +41,12 @@ body{
     margin-bottom: 20%;
     margin-left: 50px;
     font-size: 30px;
+    width: 40%
+    height:40%
 }
-.img{
-display: inline;
-    margin-left: 50%;
-    margin-bottom: 50%;
-}
-br{
-    display: inline-block;
+.content-img{
+    margin-left: 60%;
+    margin-top: -70%;
+    margin-bottom: 10%;
+    margin-right: 20%;
 }
