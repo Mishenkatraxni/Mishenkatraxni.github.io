@@ -1,6 +1,5 @@
 body{
     font-family: 'Nunito', sans-serif;
-    padding: 0% 10%
 }
 .text-logo{
     display: inline;
@@ -32,4 +31,8 @@ body{
 }
 .img,.content-img{
     display: inline;
+}
+.body{
+    padding: 0% 10%;
+    margin-top: 15%;
 }
