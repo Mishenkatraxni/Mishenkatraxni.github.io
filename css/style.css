@@ -1,6 +1,23 @@
 .container{
-    display: flex;
+    font-family: 'Nunito', sans-serif;
 }
 .imgone{
-    margin-left: 500%;
+    margin-left: 10%;
+    display: inline-flex;
+}
+.logo-header{
+    display: inline-flex;
+    font-size: 30px;
+    color: #012970;
+}
+.buttons{
+    display: inline-flex;
+    height: 100%;
+    justify-content: space-around;
+}
+.button{
+    color: #012970;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
 }
