@@ -1,37 +1,6 @@
-body{
-    font-family: 'Nunito', sans-serif;
+.container{
+    display: flex;
 }
-.text-logo{
-    display: inline;
-    font-size: 30px;
-    color: #012970;
-    font-weight: 700;
-}
-.header-link-1{
-    color: #012970;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 700;
-    margin-left: 3%;
-}
-.header-button{
-    padding: 0.5%;
-    background-color: blueviolet;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 700;
-    color: white;
-    margin-left: 2%;
-}
-.title{
-    font-size: 30px;
-    width:  40%;
-    height: 40%;
-}
-.img,.content-img{
-    display: inline;
-}
-.body{
-    padding: 0% 10%;
-    margin-top:7.5%
+.imgone{
+    justify-content: space-around;
 }
